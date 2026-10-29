@@ -1,0 +1,7 @@
+This repository's lane work derives from:
+
+  arrow (https://github.com/arrow-py/arrow)
+  Copyright (c) 2013-2024 arrow contributors — Apache License 2.0.
+
+No upstream code is vendored here at this time. If ported code lands,
+it will carry this attribution and remain under Apache-2.0.
